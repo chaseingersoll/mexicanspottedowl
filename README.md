@@ -1,2 +1,2 @@
 # mexicanspottedowl
-A spatial analysis on the threatened This project was created by Meghan Boniecki, Chase Ingersoll, and Lindsay Polaski. 
+Here you'll find a spatial analysis on the threatened Mexican Spotted Owl, with a focus on Colorado. We've mapped their habitats as well as roads, mining operations, and larger urban areas within Colorado. The goal of this project was to find how many roads, mining operations, and urban areas are located within or close to owl habitat.  This project was created by Meghan Boniecki, Chase Ingersoll, and Lindsay Polaski. 
